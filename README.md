@@ -9,7 +9,7 @@ I'm a Junior Developer from 🇩🇪 Germany with a passion for **AI infrastruct
 ### 🔥 What I'm Working On
 
 - 🛡️ [**ClawGuard**](https://github.com/felix2174/clawguard) — A security firewall for AI agents. Detects prompt injections, code obfuscation & social engineering. Battle-tested through 5 rounds of AI Red Teaming.
-- 🤖 **Buddy Enterprise** — An autonomous AI agent infrastructure running on my own VPS. Includes custom tools, security hardening, and a market research scout.
+- 🤖 **Buddy** — My personal autonomous AI agent, running on my own VPS. I built custom tools, security hardening, and automated workflows around him.
 - 🏢 [**Day2Day-Manager**](https://github.com/felix2174/Day2Day-Manager) — A full-stack project management tool built with Laravel, featuring MOCO API integration, real-time dashboards, and team capacity tracking.
 
 ---

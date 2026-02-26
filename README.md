@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Jörg 👋
 
-<!--
-**felix2174/felix2174** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Fachinformatiker für Anwendungsentwicklung** | Building the future with AI, one commit at a time.
 
-Here are some ideas to get you started:
+I'm a Junior Developer from 🇩🇪 Germany with a passion for **AI infrastructure** and **web development**. I build tools that make autonomous AI agents safer and more reliable.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔥 What I'm Working On
+
+- 🛡️ [**ClawGuard**](https://github.com/felix2174/clawguard) — A security firewall for AI agents. Detects prompt injections, code obfuscation & social engineering. Battle-tested through 5 rounds of AI Red Teaming.
+- 🤖 **Buddy Enterprise** — An autonomous AI agent infrastructure running on my own VPS. Includes custom tools, security hardening, and a market research scout.
+- 🏢 [**Day2Day-Manager**](https://github.com/felix2174/Day2Day-Manager) — A full-stack project management tool built with Laravel, featuring MOCO API integration, real-time dashboards, and team capacity tracking.
+
+---
+
+### 🛠️ Tech Stack
+
+```
+Languages      Python · PHP · JavaScript · HTML/CSS · SQL
+Backend        Laravel · Node.js · REST APIs
+AI / Security  Prompt Injection Defense · AI Agent Orchestration · Red Teaming
+DevOps         Docker · Linux · SSH · Git · Cron · Nginx
+Databases      SQLite · MySQL · PostgreSQL
+Tools          VS Code · Composer · NPM · Vite
+```
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=felix2174&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+---
+
+### 💡 About Me
+
+- 🎓 Trained as **Fachinformatiker für Anwendungsentwicklung** (Application Development Specialist)
+- 🔐 I believe AI agents need firewalls, just like servers do
+- 🚀 Currently exploring the intersection of **AI security** and **developer tooling**
+- 💬 Ask me about: AI agent security, prompt injection defense, Laravel, Python
+
+---
+
+<p align="center">
+  <i>"I built a security tool for AI agents — and let the AI break it. Five rounds later, it couldn't."</i>
+</p>

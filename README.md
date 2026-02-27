@@ -8,9 +8,9 @@ I'm a Junior Developer from 🇩🇪 Germany with a passion for **AI infrastruct
 
 ### 🔥 What I'm Working On
 
-- 🛡️ [**ClawGuard**](https://github.com/felix2174/clawguard) — A security firewall for AI agents. Detects prompt injections, code obfuscation & social engineering. Battle-tested through 5 rounds of AI Red Teaming.
+- 🛡️ [**ClawGuard**](https://github.com/joergmichno/clawguard) — A security firewall for AI agents. Detects prompt injections, code obfuscation & social engineering. Battle-tested through 5 rounds of AI Red Teaming.
 - 🤖 **Buddy** — My personal autonomous AI agent, running on my own VPS. I built custom tools, security hardening, and automated workflows around him.
-- 🏢 [**Day2Day-Manager**](https://github.com/felix2174/Day2Day-Manager) — A full-stack project management tool built with Laravel, featuring MOCO API integration, real-time dashboards, and team capacity tracking.
+- 🏢 [**Day2Day-Manager**](https://github.com/joergmichno/Day2Day-Manager) — A full-stack project management tool built with Laravel, featuring MOCO API integration, real-time dashboards, and team capacity tracking.
 
 ---
 
@@ -30,7 +30,7 @@ Tools          VS Code · Composer · NPM · Vite
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=felix2174&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joergmichno&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 ---

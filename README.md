@@ -1,49 +1,33 @@
-# Hi, I'm Jörg 👋
+# Hi, ich bin Jörg 👋
 
-**Fachinformatiker für Anwendungsentwicklung** | Building the future with AI, one commit at a time.
+**Fachinformatiker für Anwendungsentwicklung | GenAI & AI Security**
 
-I'm a Junior Developer from 🇩🇪 Germany with a passion for **AI infrastructure** and **web development**. I build tools that make autonomous AI agents safer and more reliable.
-
----
-
-### 🔥 What I'm Working On
-
-- 🛡️ [**ClawGuard**](https://github.com/joergmichno/clawguard) — A security firewall for AI agents. Detects prompt injections, code obfuscation & social engineering. Battle-tested through 5 rounds of AI Red Teaming.
-- 🤖 **Buddy** — My personal autonomous AI agent, running on my own VPS. I built custom tools, security hardening, and automated workflows around him.
-- 🏢 [**Day2Day-Manager**](https://github.com/joergmichno/Day2Day-Manager) — A full-stack project management tool built with Laravel, featuring MOCO API integration, real-time dashboards, and team capacity tracking.
+Ich entwickle Sicherheits-Tools für KI-Agenten und arbeite an der Schnittstelle von Generativer KI und Cybersecurity.
 
 ---
+
+### 🔭 Projekte
+
+- **[ClawGuard](https://github.com/joergmichno/clawguard)** – Security-Scanner für AI-Agenten. Erkennt Prompt Injection, Daten-Exfiltration und Social Engineering in Echtzeit. 38+ Erkennungsmuster, getestet durch adversarial Red-Teaming.
+- **[Project Manager](https://github.com/joergmichno/Day2Day-Manager)** – Projektverwaltungs-Tool (IHK-Abschlussprojekt). PHP/MySQL mit MVC-Architektur.
 
 ### 🛠️ Tech Stack
 
-```
-Languages      Python · PHP · JavaScript · HTML/CSS · SQL
-Backend        Laravel · Node.js · REST APIs
-AI / Security  Prompt Injection Defense · AI Agent Orchestration · Red Teaming
-DevOps         Docker · Linux · SSH · Git · Cron · Nginx
-Databases      SQLite · MySQL · PostgreSQL
-Tools          VS Code · Composer · NPM · Vite
-```
+**AI & LLM:** Prompt Engineering · Agentic AI · RAG · LLM Security
+**Languages:** Python · PHP · JavaScript
+**Frameworks:** Laravel · Flask
+**Tools:** Git · Docker · VS Code · Cursor · Claude Code
+
+### 🎯 Was mich antreibt
+
+Autonome KI-Agenten werden unseren Alltag verändern – aber nur, wenn wir sie sicher machen können. Ich kombiniere praktische Agent-Entwicklung mit Security-Forschung, weil ich glaube, dass beides zusammengehört.
+
+### 📫 Kontakt
+
+- **Standort:** Hannover, Deutschland
+- **Hintergrund:** Fachinformatiker für Anwendungsentwicklung (IHK)
+- **Status:** Offen für Junior-Positionen im Bereich Generative KI
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joergmichno&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
----
-
-### 💡 About Me
-
-- 🎓 Trained as **Fachinformatiker für Anwendungsentwicklung** (Application Development Specialist)
-- 🔐 I believe AI agents need firewalls, just like servers do
-- 🚀 Currently exploring the intersection of **AI security** and **developer tooling**
-- 💬 Ask me about: AI agent security, prompt injection defense, Laravel, Python
-
----
-
-<p align="center">
-  <i>"I built a security tool for AI agents — and let the AI break it. Five rounds later, it couldn't."</i>
-</p>
+*Building AI agents – and the tools to keep them safe.*

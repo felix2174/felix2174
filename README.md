@@ -9,13 +9,14 @@ Ich entwickle Sicherheits-Tools für KI-Agenten und arbeite an der Schnittstelle
 ### 🔭 Projekte
 
 - **[ClawGuard](https://github.com/joergmichno/clawguard)** – Security-Scanner für AI-Agenten. Erkennt Prompt Injection, Daten-Exfiltration und Social Engineering in Echtzeit. 38+ Erkennungsmuster, getestet durch adversarial Red-Teaming.
+- **[DocQA](https://github.com/joergmichno/docqa)** – RAG-basiertes Q&A-Tool für lokale Dokumente. Indexiert, chunked und beantwortet Fragen über Textdateien mit TF-IDF Retrieval und optionaler LLM-Unterstützung.
 - **[Project Manager](https://github.com/joergmichno/Day2Day-Manager)** – Projektverwaltungs-Tool (IHK-Abschlussprojekt). PHP/MySQL mit MVC-Architektur.
 
 ### 🛠️ Tech Stack
 
 **AI & LLM:** Prompt Engineering · Agentic AI · RAG · LLM Security
 **Languages:** Python · PHP · JavaScript
-**Frameworks:** Laravel · Flask
+**Frameworks:** Laravel · Flask · scikit-learn
 **Tools:** Git · Docker · VS Code · Cursor · Claude Code
 
 ### 🎯 Was mich antreibt

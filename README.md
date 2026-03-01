@@ -58,12 +58,12 @@ Webbasiertes Projektmanagement-Dashboard mit Gantt-Planer, Kanban-Board und Team
 </td>
 <td width="50%">
 
-### 🧪 [Prompt Lab](http://72.62.41.23:5000)
+### 🧪 [Prompt Lab](https://prompttools.co)
 **Prompt Injection Playground**
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/joergmichno/prompt-lab)
 [![Flask](https://img.shields.io/badge/Flask-3.0-000000?style=flat&logo=flask&logoColor=white)](https://github.com/joergmichno/prompt-lab)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Online-brightgreen?style=flat&logo=rocket&logoColor=white)](http://72.62.41.23:5000)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Online-brightgreen?style=flat&logo=rocket&logoColor=white)](https://prompttools.co)
 [![Tests](https://img.shields.io/badge/Tests-31_passed-brightgreen?style=flat&logo=pytest&logoColor=white)](https://github.com/joergmichno/prompt-lab)
 
 Interaktive Web-App zum Testen und Verstehen von Prompt-Injection-Angriffen. 25+ Erkennungsmuster, 9 Beispiel-Attacken, JSON-API. Powered by ClawGuard.

@@ -58,13 +58,14 @@ Webbasiertes Projektmanagement-Dashboard mit Gantt-Planer, Kanban-Board und Team
 </td>
 <td width="50%">
 
-### 🤖 OpenClaw Agent
-**Autonomer AI-Agent auf eigenem VPS**
+### 🧪 [Prompt Lab](https://github.com/joergmichno/prompt-lab)
+**Prompt Injection Playground**
 
-[![Docker](https://img.shields.io/badge/Docker-Container-2496ED?style=flat&logo=docker&logoColor=white)](https://github.com/joergmichno)
-[![Linux](https://img.shields.io/badge/Linux-Server-FCC624?style=flat&logo=linux&logoColor=black)](https://github.com/joergmichno)
+[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/joergmichno/prompt-lab)
+[![Flask](https://img.shields.io/badge/Flask-3.0-000000?style=flat&logo=flask&logoColor=white)](https://github.com/joergmichno/prompt-lab)
+[![Tests](https://img.shields.io/badge/Tests-31_passed-brightgreen?style=flat&logo=pytest&logoColor=white)](https://github.com/joergmichno/prompt-lab)
 
-Self-hosted AI-Agent mit Custom Skills, Telegram-Bot-Integration und ClawGuard-Sicherheitsscanner. Läuft 24/7 auf eigenem Hostinger VPS.
+Interaktive Web-App zum Testen und Verstehen von Prompt-Injection-Angriffen. 25+ Erkennungsmuster, 9 Beispiel-Attacken, JSON-API. Powered by ClawGuard.
 
 </td>
 </tr>

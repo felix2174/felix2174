@@ -47,7 +47,7 @@ Retrieval-Augmented Generation CLI: Indexiert Dokumente, beantwortet Fragen mit 
 <td width="50%">
 
 ### 📊 [Project Manager](https://project-manager-five-olive.vercel.app/)
-**IHK-Abschlussprojekt**
+**Projektmanagement-Dashboard**
 
 [![Next.js](https://img.shields.io/badge/Next.js-16-000000?style=flat&logo=next.js&logoColor=white)](https://project-manager-five-olive.vercel.app/)
 [![React](https://img.shields.io/badge/React-19-61DAFB?style=flat&logo=react&logoColor=black)](https://project-manager-five-olive.vercel.app/)

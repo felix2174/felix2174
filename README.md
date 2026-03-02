@@ -5,6 +5,7 @@
 **Fachinformatiker für Anwendungsentwicklung · GenAI & AI Security**
 
 [![GitHub](https://img.shields.io/badge/GitHub-joergmichno-181717?style=flat&logo=github)](https://github.com/joergmichno)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jörg_Michno-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jörg-michno-6a3899245)
 [![Location](https://img.shields.io/badge/Hannover-Deutschland-blue?style=flat&logo=googlemaps&logoColor=white)](https://github.com/joergmichno)
 [![Status](https://img.shields.io/badge/Status-Open_to_Work-brightgreen?style=flat&logo=handshake&logoColor=white)](mailto:michno.jrg@gmail.com)
 
@@ -70,6 +71,20 @@ Interaktive Web-App zum Testen und Verstehen von Prompt-Injection-Angriffen. 25+
 
 </td>
 </tr>
+<tr>
+<td colspan="2">
+
+### 🤖 Buddy — Autonomous AI Agent
+**Self-hosted AI Agent on VPS with Telegram Integration**
+
+[![Docker](https://img.shields.io/badge/Docker-Deployed-2496ED?style=flat&logo=docker&logoColor=white)](#)
+[![Telegram](https://img.shields.io/badge/Telegram-Bot-26A5E4?style=flat&logo=telegram&logoColor=white)](#)
+[![ElevenLabs](https://img.shields.io/badge/ElevenLabs-TTS-000000?style=flat&logo=data:image/svg+xml;base64,&logoColor=white)](#)
+
+Autonomer KI-Agent auf eigenem Hostinger VPS: Docker-basiert, Telegram-Bot mit multilingualer Sprachausgabe (ElevenLabs TTS), Shared Memory System für persistenten Kontext zwischen Sessions, eigene ClawGuard-Integration als Security-Skill, Cron-basiertes Monitoring. Gesteuert via Telegram — auch vom Smartphone.
+
+</td>
+</tr>
 </table>
 
 ## Tech Stack
@@ -129,6 +144,7 @@ Ich kombiniere praktische Agent-Entwicklung mit Security-Forschung, weil beides 
 **Open to Work** · Junior-Positionen im Bereich Generative KI & AI Security
 
 [![Email](https://img.shields.io/badge/E--Mail-michno.jrg@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:michno.jrg@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profil-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jörg-michno-6a3899245)
 
 *Building AI agents — and the tools to keep them safe.* 🛡️
 

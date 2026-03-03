@@ -78,10 +78,36 @@ Interaktive Web-App zum Testen und Verstehen von Prompt-Injection-Angriffen. 25+
 **Security Scanning REST API (SaaS)**
 
 [![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/joergmichno/clawguard-shield)
-[![Tests](https://img.shields.io/badge/Tests-52_passed-brightgreen?style=flat&logo=pytest&logoColor=white)](https://github.com/joergmichno/clawguard-shield)
+[![Tests](https://img.shields.io/badge/Tests-70_passed-brightgreen?style=flat&logo=pytest&logoColor=white)](https://github.com/joergmichno/clawguard-shield)
 [![Live API](https://img.shields.io/badge/API-Live-brightgreen?style=flat&logo=rocket&logoColor=white)](https://prompttools.co/api/v1/)
 
-REST API für AI-Agent-Security: Prompt Injection, Datenexfiltration, Code-Obfuscation, Social Engineering. API-Key-Auth, Tier-basiertes Rate-Limiting, Docker-deployed. Powered by ClawGuard.
+REST API für AI-Agent-Security: Prompt Injection, Datenexfiltration, Code-Obfuscation, Social Engineering. API-Key-Auth, Tier-basiertes Rate-Limiting, Stripe-Payments, Docker-deployed.
+
+</td>
+<td width="50%">
+
+### 📦 [Shield Python SDK](https://github.com/joergmichno/clawguard-shield-python)
+**`pip install clawguard-shield`**
+
+[![PyPI](https://img.shields.io/badge/PyPI-clawguard--shield-3775A9?style=flat&logo=pypi&logoColor=white)](https://github.com/joergmichno/clawguard-shield-python)
+[![Tests](https://img.shields.io/badge/Tests-37_passed-brightgreen?style=flat&logo=pytest&logoColor=white)](https://github.com/joergmichno/clawguard-shield-python)
+[![License](https://img.shields.io/github/license/joergmichno/clawguard-shield-python?style=flat)](https://github.com/joergmichno/clawguard-shield-python/blob/master/LICENSE)
+
+Python SDK für die Shield API: 3 Zeilen Code zum Scannen. Dataclass-Ergebnisse, Custom Exceptions, Type Hints. Integration-Beispiele für FastAPI, LangChain und CI/CD.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ⚡ [Shield Scan Action](https://github.com/joergmichno/clawguard-scan-action)
+**GitHub Action für CI/CD Security Scanning**
+
+[![GitHub Action](https://img.shields.io/badge/GitHub_Action-v1-2088FF?style=flat&logo=githubactions&logoColor=white)](https://github.com/joergmichno/clawguard-scan-action)
+[![Tests](https://img.shields.io/badge/Tests-25_passed-brightgreen?style=flat&logo=pytest&logoColor=white)](https://github.com/joergmichno/clawguard-scan-action)
+[![License](https://img.shields.io/github/license/joergmichno/clawguard-scan-action?style=flat)](https://github.com/joergmichno/clawguard-scan-action/blob/master/LICENSE)
+
+Scannt Codebase automatisch auf Prompt Injection in CI/CD. Smart Prompt Detection, PR-Summaries, JSON-Reports, konfigurierbare Severity-Schwellen. Powered by Shield API.
 
 </td>
 <td width="50%">

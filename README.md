@@ -25,10 +25,10 @@ Ich entwickle Sicherheits-Tools für KI-Agenten und arbeite an der Schnittstelle
 **Security-Scanner für AI-Agenten**
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/joergmichno/clawguard)
-[![Tests](https://img.shields.io/badge/Tests-53_passed-brightgreen?style=flat&logo=pytest&logoColor=white)](https://github.com/joergmichno/clawguard)
+[![Tests](https://img.shields.io/badge/Tests-71_passed-brightgreen?style=flat&logo=pytest&logoColor=white)](https://github.com/joergmichno/clawguard)
 [![License](https://img.shields.io/github/license/joergmichno/clawguard?style=flat)](https://github.com/joergmichno/clawguard/blob/main/LICENSE)
 
-Echtzeit-Erkennung von Prompt Injection, Code-Obfuscation, Social Engineering und Datenexfiltration. 38+ Erkennungsmuster in 5 Kategorien, adversarial Red-Teaming, als OpenClaw-Skill integrierbar.
+Echtzeit-Erkennung von Prompt Injection, Code-Obfuscation, Social Engineering und Datenexfiltration. 42+ Erkennungsmuster in 5 Kategorien, adversarial Red-Teaming, als OpenClaw-Skill integrierbar.
 
 </td>
 <td width="50%">

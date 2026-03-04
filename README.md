@@ -33,14 +33,14 @@ Echtzeit-Erkennung von Prompt Injection, Code-Obfuscation, Social Engineering un
 </td>
 <td width="50%">
 
-### 📚 [DocQA](https://github.com/joergmichno/docqa)
-**RAG-basiertes Document Q&A Tool**
+### 🔒 [ClawGuard Shield](https://github.com/joergmichno/clawguard-shield)
+**Security Scanning REST API (SaaS)**
 
-[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/joergmichno/docqa)
-[![Tests](https://img.shields.io/badge/Tests-33_passed-brightgreen?style=flat&logo=pytest&logoColor=white)](https://github.com/joergmichno/docqa)
-[![License](https://img.shields.io/github/license/joergmichno/docqa?style=flat)](https://github.com/joergmichno/docqa/blob/main/LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/joergmichno/clawguard-shield)
+[![Tests](https://img.shields.io/badge/Tests-70_passed-brightgreen?style=flat&logo=pytest&logoColor=white)](https://github.com/joergmichno/clawguard-shield)
+[![Live API](https://img.shields.io/badge/API-Live-brightgreen?style=flat&logo=rocket&logoColor=white)](https://prompttools.co/api/v1/)
 
-Retrieval-Augmented Generation CLI: Indexiert Dokumente, beantwortet Fragen mit TF-IDF-Vektorisierung + Cosine Similarity. Modulare Pipeline (Indexer → Retriever → Answerer), optionale LLM-Anbindung.
+REST API für AI-Agent-Security: Prompt Injection, Datenexfiltration, Code-Obfuscation, Social Engineering. API-Key-Auth, Tier-basiertes Rate-Limiting, Stripe-Payments, Docker-deployed.
 
 </td>
 </tr>
@@ -59,60 +59,33 @@ Webbasiertes Projektmanagement-Dashboard mit Gantt-Planer, Kanban-Board und Team
 </td>
 <td width="50%">
 
-### 🧪 [Prompt Lab](https://prompttools.co)
-**Prompt Injection Playground**
+### 📚 [DocQA](https://github.com/joergmichno/docqa)
+**RAG-basiertes Document Q&A Tool**
 
-[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/joergmichno/prompt-lab)
-[![Flask](https://img.shields.io/badge/Flask-3.0-000000?style=flat&logo=flask&logoColor=white)](https://github.com/joergmichno/prompt-lab)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Online-brightgreen?style=flat&logo=rocket&logoColor=white)](https://prompttools.co)
-[![Tests](https://img.shields.io/badge/Tests-31_passed-brightgreen?style=flat&logo=pytest&logoColor=white)](https://github.com/joergmichno/prompt-lab)
+[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/joergmichno/docqa)
+[![Tests](https://img.shields.io/badge/Tests-33_passed-brightgreen?style=flat&logo=pytest&logoColor=white)](https://github.com/joergmichno/docqa)
+[![License](https://img.shields.io/github/license/joergmichno/docqa?style=flat)](https://github.com/joergmichno/docqa/blob/main/LICENSE)
 
-Interaktive Web-App zum Testen und Verstehen von Prompt-Injection-Angriffen. 25+ Erkennungsmuster, 9 Beispiel-Attacken, JSON-API. Powered by ClawGuard.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🔒 [ClawGuard Shield](https://github.com/joergmichno/clawguard-shield)
-**Security Scanning REST API (SaaS)**
-
-[![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/joergmichno/clawguard-shield)
-[![Tests](https://img.shields.io/badge/Tests-70_passed-brightgreen?style=flat&logo=pytest&logoColor=white)](https://github.com/joergmichno/clawguard-shield)
-[![Live API](https://img.shields.io/badge/API-Live-brightgreen?style=flat&logo=rocket&logoColor=white)](https://prompttools.co/api/v1/)
-
-REST API für AI-Agent-Security: Prompt Injection, Datenexfiltration, Code-Obfuscation, Social Engineering. API-Key-Auth, Tier-basiertes Rate-Limiting, Stripe-Payments, Docker-deployed.
-
-</td>
-<td width="50%">
-
-### 📦 [Shield Python SDK](https://github.com/joergmichno/clawguard-shield-python)
-**`pip install clawguard-shield`**
-
-[![PyPI](https://img.shields.io/badge/PyPI-clawguard--shield-3775A9?style=flat&logo=pypi&logoColor=white)](https://github.com/joergmichno/clawguard-shield-python)
-[![Tests](https://img.shields.io/badge/Tests-37_passed-brightgreen?style=flat&logo=pytest&logoColor=white)](https://github.com/joergmichno/clawguard-shield-python)
-[![License](https://img.shields.io/github/license/joergmichno/clawguard-shield-python?style=flat)](https://github.com/joergmichno/clawguard-shield-python/blob/master/LICENSE)
-
-Python SDK für die Shield API: 3 Zeilen Code zum Scannen. Dataclass-Ergebnisse, Custom Exceptions, Type Hints. Integration-Beispiele für FastAPI, LangChain und CI/CD.
+Retrieval-Augmented Generation CLI: Indexiert Dokumente, beantwortet Fragen mit TF-IDF-Vektorisierung + Cosine Similarity. Modulare Pipeline (Indexer → Retriever → Answerer), optionale LLM-Anbindung.
 
 </td>
 </tr>
-<tr>
-<td width="50%">
+</table>
 
-### ⚡ [Shield Scan Action](https://github.com/joergmichno/clawguard-scan-action)
-**GitHub Action für CI/CD Security Scanning**
+### Ecosystem
 
-[![GitHub Action](https://img.shields.io/badge/GitHub_Action-v1-2088FF?style=flat&logo=githubactions&logoColor=white)](https://github.com/joergmichno/clawguard-scan-action)
-[![Tests](https://img.shields.io/badge/Tests-25_passed-brightgreen?style=flat&logo=pytest&logoColor=white)](https://github.com/joergmichno/clawguard-scan-action)
-[![License](https://img.shields.io/github/license/joergmichno/clawguard-scan-action?style=flat)](https://github.com/joergmichno/clawguard-scan-action/blob/master/LICENSE)
-
-Scannt Codebase automatisch auf Prompt Injection in CI/CD. Smart Prompt Detection, PR-Summaries, JSON-Reports, konfigurierbare Severity-Schwellen. Powered by Shield API.
-
-</td>
-<td width="50%">
+| Repo | Beschreibung | |
+|------|-------------|---|
+| 📦 [Shield Python SDK](https://github.com/joergmichno/clawguard-shield-python) | `pip install clawguard-shield` — 3 Zeilen Code zum Scannen. Dataclass-Ergebnisse, Type Hints, Integration für FastAPI & LangChain. | [![Tests](https://img.shields.io/badge/Tests-37_passed-brightgreen?style=flat&logo=pytest&logoColor=white)](https://github.com/joergmichno/clawguard-shield-python) |
+| ⚡ [Shield Scan Action](https://github.com/joergmichno/clawguard-scan-action) | GitHub Action für CI/CD Security Scanning — Smart Prompt Detection, PR-Summaries, konfigurierbare Severity-Schwellen. | [![Tests](https://img.shields.io/badge/Tests-25_passed-brightgreen?style=flat&logo=pytest&logoColor=white)](https://github.com/joergmichno/clawguard-scan-action) |
+| 🧪 [Prompt Lab](https://prompttools.co) | Interaktive Web-App zum Testen von Prompt-Injection-Angriffen — 25+ Muster, 9 Beispiel-Attacken, JSON-API. Powered by ClawGuard. | [![Live Demo](https://img.shields.io/badge/Live-Online-brightgreen?style=flat&logo=rocket&logoColor=white)](https://prompttools.co) |
 
 ### 🤖 Buddy — Autonomous AI Agent
+
+<table>
+<tr>
+<td>
+
 **Self-hosted AI Agent on VPS with Telegram Integration**
 
 [![Docker](https://img.shields.io/badge/Docker-Deployed-2496ED?style=flat&logo=docker&logoColor=white)](#)

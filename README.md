@@ -13,7 +13,7 @@
 
 ---
 
-Ich entwickle Sicherheits-Tools für KI-Agenten und arbeite an der Schnittstelle von **Generativer KI** und **Cybersecurity**. Mein Fokus: autonome AI-Agenten sicherer machen — von Prompt Injection Detection über Security-Scanning-APIs bis zur Laufzeitüberwachung.
+Ich entwickle Sicherheits-Tools für KI-Agenten und arbeite an der Schnittstelle von **Generativer KI** und **Cybersecurity**. Mein Fokus: autonome AI-Agenten sicherer machen — von Prompt Injection Detection über Security-Scanning-APIs bis zu MCP-Integrationen für Claude Desktop & Cursor.
 
 ## Projekte
 
@@ -78,6 +78,7 @@ Retrieval-Augmented Generation CLI: Indexiert Dokumente, beantwortet Fragen mit 
 |------|-------------|---|
 | 📦 [Shield Python SDK](https://github.com/joergmichno/clawguard-shield-python) | `pip install clawguard-shield` — 3 Zeilen Code zum Scannen. Dataclass-Ergebnisse, Type Hints, Integration für FastAPI & LangChain. | [![Tests](https://img.shields.io/badge/Tests-37_passed-brightgreen?style=flat&logo=pytest&logoColor=white)](https://github.com/joergmichno/clawguard-shield-python) |
 | ⚡ [Shield Scan Action](https://github.com/joergmichno/clawguard-scan-action) | GitHub Action für CI/CD Security Scanning — Smart Prompt Detection, PR-Summaries, konfigurierbare Severity-Schwellen. | [![Tests](https://img.shields.io/badge/Tests-25_passed-brightgreen?style=flat&logo=pytest&logoColor=white)](https://github.com/joergmichno/clawguard-scan-action) |
+| 🔌 [ClawGuard MCP Server](https://github.com/joergmichno/clawguard-mcp) | MCP-Server für Claude Desktop, Cursor & Windsurf — Security Scanning direkt im Editor. `pip install clawguard-mcp`. 5 Tools, FastMCP + async. | [![PyPI](https://img.shields.io/badge/PyPI-0.1.0-blue?style=flat&logo=pypi&logoColor=white)](https://pypi.org/project/clawguard-mcp/) |
 | 🧪 [Prompt Lab](https://prompttools.co) | Interaktive Web-App zum Testen von Prompt-Injection-Angriffen — 25+ Muster, 9 Beispiel-Attacken, JSON-API. Powered by ClawGuard. | [![Live Demo](https://img.shields.io/badge/Live-Online-brightgreen?style=flat&logo=rocket&logoColor=white)](https://prompttools.co) |
 
 ### 🤖 Buddy — Autonomous AI Agent

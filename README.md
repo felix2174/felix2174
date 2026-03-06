@@ -2,33 +2,34 @@
 
 # Jörg Michno
 
-**Fachinformatiker für Anwendungsentwicklung · GenAI & AI Security**
+**Software Developer · GenAI & AI Security**
 
 [![GitHub](https://img.shields.io/badge/GitHub-joergmichno-181717?style=flat&logo=github)](https://github.com/joergmichno)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jörg_Michno-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jörg-michno-6a3899245)
-[![Location](https://img.shields.io/badge/Hannover-Deutschland-blue?style=flat&logo=googlemaps&logoColor=white)](https://github.com/joergmichno)
-[![Status](https://img.shields.io/badge/Status-Open_to_Work-brightgreen?style=flat&logo=handshake&logoColor=white)](mailto:michno.jrg@gmail.com)
+[![Location](https://img.shields.io/badge/Hannover-Germany-blue?style=flat&logo=googlemaps&logoColor=white)](https://github.com/joergmichno)
+[![Website](https://img.shields.io/badge/prompttools.co-Live-brightgreen?style=flat&logo=rocket&logoColor=white)](https://prompttools.co)
 
 </div>
 
 ---
 
-Ich entwickle Sicherheits-Tools für KI-Agenten und arbeite an der Schnittstelle von **Generativer KI** und **Cybersecurity**. Mein Fokus: autonome AI-Agenten sicherer machen — von Prompt Injection Detection über Security-Scanning-APIs bis zu MCP-Integrationen für Claude Desktop & Cursor.
+I build security tools for AI agents, working at the intersection of **Generative AI** and **Cybersecurity**. My focus: making autonomous AI agents safer — from prompt injection detection and security scanning APIs to MCP integrations for Claude Desktop & Cursor.
 
-## Projekte
+## Projects
 
 <table>
 <tr>
 <td width="50%">
 
 ### 🛡️ [ClawGuard](https://github.com/joergmichno/clawguard)
-**Security-Scanner für AI-Agenten**
+**Security Scanner for AI Agents**
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/joergmichno/clawguard)
+[![PyPI](https://img.shields.io/pypi/v/clawguard?style=flat&logo=pypi&logoColor=white)](https://pypi.org/project/clawguard/)
 [![Tests](https://img.shields.io/badge/Tests-71_passed-brightgreen?style=flat&logo=pytest&logoColor=white)](https://github.com/joergmichno/clawguard)
 [![License](https://img.shields.io/github/license/joergmichno/clawguard?style=flat)](https://github.com/joergmichno/clawguard/blob/main/LICENSE)
 
-Echtzeit-Erkennung von Prompt Injection, Code-Obfuscation, Social Engineering und Datenexfiltration. 42+ Erkennungsmuster in 5 Kategorien, adversarial Red-Teaming, als OpenClaw-Skill integrierbar.
+Real-time detection of prompt injection, code obfuscation, social engineering and data exfiltration. 42+ detection patterns across 5 categories, adversarial red-teaming, available as PyPI package.
 
 </td>
 <td width="50%">
@@ -40,33 +41,32 @@ Echtzeit-Erkennung von Prompt Injection, Code-Obfuscation, Social Engineering un
 [![Tests](https://img.shields.io/badge/Tests-70_passed-brightgreen?style=flat&logo=pytest&logoColor=white)](https://github.com/joergmichno/clawguard-shield)
 [![Live API](https://img.shields.io/badge/API-Live-brightgreen?style=flat&logo=rocket&logoColor=white)](https://prompttools.co/api/v1/)
 
-REST API für AI-Agent-Security: Prompt Injection, Datenexfiltration, Code-Obfuscation, Social Engineering. API-Key-Auth, Tier-basiertes Rate-Limiting, Stripe-Payments, Docker-deployed.
+REST API for AI agent security: prompt injection, data exfiltration, code obfuscation, social engineering. API key auth, tier-based rate limiting, Docker-deployed on VPS.
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 📊 [Project Manager](https://project-manager-five-olive.vercel.app/)
-**Projektmanagement-Dashboard**
+### 🐍 [Shield Python SDK](https://github.com/joergmichno/clawguard-shield-python)
+**`pip install clawguard-shield`**
 
-[![Next.js](https://img.shields.io/badge/Next.js-16-000000?style=flat&logo=next.js&logoColor=white)](https://project-manager-five-olive.vercel.app/)
-[![React](https://img.shields.io/badge/React-19-61DAFB?style=flat&logo=react&logoColor=black)](https://project-manager-five-olive.vercel.app/)
-[![Vercel](https://img.shields.io/badge/Live_Demo-Vercel-000000?style=flat&logo=vercel&logoColor=white)](https://project-manager-five-olive.vercel.app/)
+[![PyPI](https://img.shields.io/pypi/v/clawguard-shield?style=flat&logo=pypi&logoColor=white)](https://pypi.org/project/clawguard-shield/)
+[![Tests](https://img.shields.io/badge/Tests-37_passed-brightgreen?style=flat&logo=pytest&logoColor=white)](https://github.com/joergmichno/clawguard-shield-python)
+[![License](https://img.shields.io/github/license/joergmichno/clawguard-shield-python?style=flat)](https://github.com/joergmichno/clawguard-shield-python/blob/main/LICENSE)
 
-Webbasiertes Projektmanagement-Dashboard mit Gantt-Planer, Kanban-Board und Teamverwaltung. Next.js, React, Tailwind CSS.
+3 lines of code to scan any prompt. Dataclass results, full type hints, ready-made integration for FastAPI & LangChain.
 
 </td>
 <td width="50%">
 
-### 📚 [DocQA](https://github.com/joergmichno/docqa)
-**RAG-basiertes Document Q&A Tool**
+### 🔌 [ClawGuard MCP Server](https://github.com/joergmichno/clawguard-mcp)
+**`pip install clawguard-mcp`**
 
-[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/joergmichno/docqa)
-[![Tests](https://img.shields.io/badge/Tests-33_passed-brightgreen?style=flat&logo=pytest&logoColor=white)](https://github.com/joergmichno/docqa)
-[![License](https://img.shields.io/github/license/joergmichno/docqa?style=flat)](https://github.com/joergmichno/docqa/blob/main/LICENSE)
+[![PyPI](https://img.shields.io/pypi/v/clawguard-mcp?style=flat&logo=pypi&logoColor=white)](https://pypi.org/project/clawguard-mcp/)
+[![MCP](https://img.shields.io/badge/MCP-Compatible-8A2BE2?style=flat)](https://github.com/joergmichno/clawguard-mcp)
 
-Retrieval-Augmented Generation CLI: Indexiert Dokumente, beantwortet Fragen mit TF-IDF-Vektorisierung + Cosine Similarity. Modulare Pipeline (Indexer → Retriever → Answerer), optionale LLM-Anbindung.
+MCP server for Claude Desktop, Cursor & Windsurf — security scanning directly in your editor. 5 tools, FastMCP + async.
 
 </td>
 </tr>
@@ -74,12 +74,11 @@ Retrieval-Augmented Generation CLI: Indexiert Dokumente, beantwortet Fragen mit 
 
 ### Ecosystem
 
-| Repo | Beschreibung | |
+| Repo | Description | |
 |------|-------------|---|
-| 📦 [Shield Python SDK](https://github.com/joergmichno/clawguard-shield-python) | `pip install clawguard-shield` — 3 Zeilen Code zum Scannen. Dataclass-Ergebnisse, Type Hints, Integration für FastAPI & LangChain. | [![Tests](https://img.shields.io/badge/Tests-37_passed-brightgreen?style=flat&logo=pytest&logoColor=white)](https://github.com/joergmichno/clawguard-shield-python) |
-| ⚡ [Shield Scan Action](https://github.com/joergmichno/clawguard-scan-action) | GitHub Action für CI/CD Security Scanning — Smart Prompt Detection, PR-Summaries, konfigurierbare Severity-Schwellen. | [![Tests](https://img.shields.io/badge/Tests-25_passed-brightgreen?style=flat&logo=pytest&logoColor=white)](https://github.com/joergmichno/clawguard-scan-action) |
-| 🔌 [ClawGuard MCP Server](https://github.com/joergmichno/clawguard-mcp) | MCP-Server für Claude Desktop, Cursor & Windsurf — Security Scanning direkt im Editor. `pip install clawguard-mcp`. 5 Tools, FastMCP + async. | [![PyPI](https://img.shields.io/badge/PyPI-0.1.0-blue?style=flat&logo=pypi&logoColor=white)](https://pypi.org/project/clawguard-mcp/) |
-| 🧪 [Prompt Lab](https://prompttools.co) | Interaktive Web-App zum Testen von Prompt-Injection-Angriffen — 25+ Muster, 9 Beispiel-Attacken, JSON-API. Powered by ClawGuard. | [![Live Demo](https://img.shields.io/badge/Live-Online-brightgreen?style=flat&logo=rocket&logoColor=white)](https://prompttools.co) |
+| ⚡ [Shield Scan Action](https://github.com/joergmichno/clawguard-scan-action) | GitHub Action for CI/CD security scanning — smart prompt detection, PR summaries, configurable severity thresholds. | [![Tests](https://img.shields.io/badge/Tests-25_passed-brightgreen?style=flat&logo=pytest&logoColor=white)](https://github.com/joergmichno/clawguard-scan-action) |
+| 🧪 [Prompt Lab](https://prompttools.co) | Interactive web app for testing prompt injection attacks — 48 patterns, 12 example attacks, JSON API. Powered by ClawGuard. | [![Live](https://img.shields.io/badge/Live-Online-brightgreen?style=flat&logo=rocket&logoColor=white)](https://prompttools.co) |
+| 📚 [DocQA](https://github.com/joergmichno/docqa) | RAG-based document Q&A CLI with TF-IDF vectorization + cosine similarity. Modular pipeline, optional LLM integration. | [![Tests](https://img.shields.io/badge/Tests-33_passed-brightgreen?style=flat&logo=pytest&logoColor=white)](https://github.com/joergmichno/docqa) |
 
 ### 🤖 Buddy — Autonomous AI Agent
 
@@ -91,9 +90,8 @@ Retrieval-Augmented Generation CLI: Indexiert Dokumente, beantwortet Fragen mit 
 
 [![Docker](https://img.shields.io/badge/Docker-Deployed-2496ED?style=flat&logo=docker&logoColor=white)](#)
 [![Telegram](https://img.shields.io/badge/Telegram-Bot-26A5E4?style=flat&logo=telegram&logoColor=white)](#)
-[![ElevenLabs](https://img.shields.io/badge/ElevenLabs-TTS-000000?style=flat&logo=data:image/svg+xml;base64,&logoColor=white)](#)
 
-Autonomer KI-Agent auf eigenem Hostinger VPS: Docker-basiert, Telegram-Bot mit multilingualer Sprachausgabe (ElevenLabs TTS), Shared Memory System, ClawGuard-Integration als Security-Skill.
+Autonomous AI agent on a Hostinger VPS: Docker-based, Telegram bot with multilingual voice output (ElevenLabs TTS), shared memory system, ClawGuard integration as security skill.
 
 </td>
 </tr>
@@ -111,7 +109,7 @@ Autonomer KI-Agent auf eigenem Hostinger VPS: Docker-basiert, Telegram-Bot mit m
 ![Red Teaming](https://img.shields.io/badge/Red_Teaming-8B0000?style=for-the-badge&logoColor=white)
 ![API Security](https://img.shields.io/badge/API_Security-FF4500?style=for-the-badge&logoColor=white)
 
-**Sprachen & Frameworks**
+**Languages & Frameworks**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -121,8 +119,8 @@ Autonomer KI-Agent auf eigenem Hostinger VPS: Docker-basiert, Telegram-Bot mit m
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 **DevOps & Tools**
@@ -145,20 +143,19 @@ Autonomer KI-Agent auf eigenem Hostinger VPS: Docker-basiert, Telegram-Bot mit m
 
 </div>
 
-## Was mich antreibt
+## What Drives Me
 
-> Autonome KI-Agenten werden unseren Alltag verändern — aber nur, wenn wir sie sicher machen können.
+> Autonomous AI agents will transform how we work — but only if we can make them secure.
 
-Ich kombiniere praktische Agent-Entwicklung mit Security-Forschung, weil beides zusammengehört. Von Prompt Injection Detection über Runtime-Monitoring bis hin zu Red Teaming: Ich baue die Werkzeuge, die AI-Agenten vertrauenswürdig machen.
+I combine hands-on agent development with security research because both go hand in hand. From prompt injection detection to runtime monitoring to red teaming: I build the tools that make AI agents trustworthy.
 
 ---
 
 <div align="center">
 
-**Open to Work** · Junior-Positionen im Bereich Generative KI & AI Security
-
-[![Email](https://img.shields.io/badge/E--Mail-michno.jrg@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:michno.jrg@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profil-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jörg-michno-6a3899245)
+[![Email](https://img.shields.io/badge/Email-michno.jrg@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:michno.jrg@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jörg-michno-6a3899245)
+[![Website](https://img.shields.io/badge/prompttools.co-Visit-brightgreen?style=flat&logo=rocket&logoColor=white)](https://prompttools.co)
 
 *Building AI agents — and the tools to keep them safe.* 🛡️
 

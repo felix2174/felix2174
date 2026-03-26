@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jörg_Michno-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jörg-michno-6a3899245)
 [![Location](https://img.shields.io/badge/Hannover-Germany-blue?style=flat&logo=googlemaps&logoColor=white)](https://github.com/joergmichno)
 [![Shield](https://img.shields.io/badge/ClawGuard_Shield-Live_API-brightgreen?style=flat&logo=rocket&logoColor=white)](https://prompttools.co/shield)
-[![Blog](https://img.shields.io/badge/Blog-7_Posts-blue?style=flat&logo=rss&logoColor=white)](https://prompttools.co/blog)
+[![Blog](https://img.shields.io/badge/Blog-11_Posts-blue?style=flat&logo=rss&logoColor=white)](https://prompttools.co/blog)
 
 </div>
 
@@ -16,7 +16,7 @@
 
 I build security tools for AI agents, working at the intersection of **Generative AI** and **Cybersecurity**. Focus: making autonomous AI agents safer — from prompt injection detection to EU AI Act compliance scanning.
 
-**Key numbers:** 245 detection patterns · 15 languages · F1=99.0% · <6ms latency · OWASP LLM+Agentic+MCP Top 10: 100% coverage · 30 security advisories filed (277k+ Stars reach)
+**Key numbers:** 245 detection patterns · 15 languages · F1=99.0% · <6ms latency · OWASP LLM+Agentic+MCP Top 10: 100% coverage · 32 security advisories filed (280k+ Stars reach)
 
 ## Projects
 
@@ -85,9 +85,9 @@ MCP server for Claude Desktop, Cursor & Windsurf — security scanning directly 
 
 ### Security Research
 
-- **30 security advisories** filed across major open source projects (Google genai-toolbox, Notion MCP, Laravel, n8n, GhidraMCP, git-mcp, XcodeBuildMCP and more)
-- **277k+ combined Stars** across affected repositories
-- **Blog:** [7 articles](https://prompttools.co/blog) on prompt injection, MCP security, EU AI Act compliance
+- **32 security advisories** filed across major open source projects (Google genai-toolbox, Notion MCP, Laravel, n8n, GhidraMCP, git-mcp, XcodeBuildMCP and more)
+- **280k+ combined Stars** across affected repositories
+- **Blog:** [11 articles](https://prompttools.co/blog) on prompt injection, MCP security, EU AI Act compliance
 - **Registry Dashboard:** [11,529 MCP servers scanned](https://prompttools.co/registry) for security vulnerabilities
 
 ---

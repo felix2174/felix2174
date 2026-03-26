@@ -16,7 +16,7 @@
 
 I build security tools for AI agents, working at the intersection of **Generative AI** and **Cybersecurity**. Focus: making autonomous AI agents safer — from prompt injection detection to EU AI Act compliance scanning.
 
-**Key numbers:** 245 detection patterns · 15 languages · F1=99.0% · <6ms latency · OWASP LLM+Agentic+MCP Top 10: 100% coverage · 32 security advisories filed (280k+ Stars reach)
+**Key numbers:** 216 detection patterns · 15 languages · F1=99.0% · <6ms latency · OWASP LLM+Agentic+MCP Top 10: 100% coverage · 32 security advisories filed (280k+ Stars reach)
 
 ## Projects
 
@@ -33,7 +33,7 @@ I build security tools for AI agents, working at the intersection of **Generativ
 [![F1](https://img.shields.io/badge/F1-99.0%25-brightgreen?style=flat)](https://github.com/joergmichno/clawguard)
 [![License](https://img.shields.io/github/license/joergmichno/clawguard?style=flat)](https://github.com/joergmichno/clawguard/blob/main/LICENSE)
 
-Real-time detection of prompt injection, jailbreaks, code injection, social engineering and data exfiltration. **245 patterns across 12 categories in 15 languages.** Zero LLM dependency, <6ms latency.
+Real-time detection of prompt injection, jailbreaks, code injection, social engineering and data exfiltration. **216 patterns across 12 categories in 15 languages.** Zero LLM dependency, <6ms latency.
 
 </td>
 <td width="50%">
@@ -45,7 +45,7 @@ Real-time detection of prompt injection, jailbreaks, code injection, social engi
 [![API](https://img.shields.io/badge/API-Live-brightgreen?style=flat&logo=rocket&logoColor=white)](https://prompttools.co/shield)
 [![EU AI Act](https://img.shields.io/badge/EU_AI_Act-Ready-blue?style=flat)](https://prompttools.co/audit)
 
-REST API for AI security: 245 patterns, PDF compliance reports mapped to EU AI Act (Art. 9, 15, 17, 61). Free tier, Pro & Enterprise plans. Stripe payments, Docker-deployed.
+REST API for AI security: 216 patterns, PDF compliance reports mapped to EU AI Act (Art. 9, 15, 17, 61). Free tier, Pro & Enterprise plans. Stripe payments, Docker-deployed.
 
 </td>
 </tr>
@@ -80,7 +80,7 @@ MCP server for Claude Desktop, Cursor & Windsurf — security scanning directly 
 |------|-------------|
 | 🐍 [Shield Python SDK](https://github.com/joergmichno/clawguard-shield-python) | `pip install clawguard-shield` — 3 lines to scan any prompt. Dataclass results, type hints, FastAPI & LangChain ready. |
 | 📦 [Shield JS SDK](https://github.com/joergmichno/clawguard-shield-js) | `npm install clawguard-shield` — Zero deps, ESM+CJS+TS, full TypeScript support. |
-| 🧪 [Prompt Lab](https://github.com/joergmichno/prompt-lab) | Interactive Prompt Injection Playground — test 245 patterns in real time. [Live →](https://prompttools.co) |
+| 🧪 [Prompt Lab](https://github.com/joergmichno/prompt-lab) | Interactive Prompt Injection Playground — test 216 patterns in real time. [Live →](https://prompttools.co) |
 | 📊 [Project Manager](https://github.com/joergmichno/project-manager) | Project dashboard with Gantt, Kanban & early warning system — Next.js 16, React 19, Tailwind CSS 4 |
 
 ### Security Research
